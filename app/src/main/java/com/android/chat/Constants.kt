@@ -23,7 +23,7 @@ object Constants {
     const val END_CALL_STATUS = "end_call_status"
     const val MAKE_CALL = "make_call"
     const val ANSWER_CALL = "answer_call"
-    const val RETROFIT_URL =  "https://expressjs-backend-side.herokuapp.com//api/v1/"
+    const val RETROFIT_URL =  "https://expressjs-backend-side.herokuapp.com/api/v1/"
     const val SOCKETIO_URL = "https://expressjs-backend-side.herokuapp.com/"
 
 
