@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Chat</string>
+
+    <string name="just_now">À l\'instant</string>
+    <string name="ago">Il y a</string>
+    <string name="second">secondes</string>
+    <string name="minutes">minutes</string>
+    <string name="hours">Heures</string>
+    <string name="today">Aujourd\'hui</string>
+    <string name="yesterday">Hier</string>
+    <string name="tomorrow">Demain</string>
+    <string name="a">à</string>
+</resources>

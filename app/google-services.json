@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "669116172803",
+    "project_id": "aji-creative",
+    "storage_bucket": "aji-creative.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669116172803:android:93d4a351907dff7467dc36",
+        "android_client_info": {
+          "package_name": "com.android.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669116172803-h8bdkar7v16pf41his33l0gqeuqhsb2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs3A9LxovdeHNzzUxs1ABn5r1uRMtdDuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669116172803-h8bdkar7v16pf41his33l0gqeuqhsb2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
